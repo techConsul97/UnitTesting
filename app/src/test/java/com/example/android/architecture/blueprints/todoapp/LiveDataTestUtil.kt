@@ -1,3 +1,8 @@
+<<<<<<< HEAD
+=======
+package com.example.android.architecture.blueprints.todoapp
+
+>>>>>>> e203a5997004769e433fdd541d17aceedb2b7bb5
 import androidx.annotation.VisibleForTesting
 import androidx.lifecycle.LiveData
 import androidx.lifecycle.Observer
